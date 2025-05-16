@@ -59,8 +59,8 @@ endmodule
 
 Developed by:Anbudurai A
 
-RegisterNumber:24013673
-*/
+RegisterNumber:212224230018
+
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
@@ -78,6 +78,6 @@ RegisterNumber:24013673
 
 **RESULTS**
 
-
+Thus the code is executed successfully.
 
 
